@@ -1,0 +1,9 @@
+h5 {
+    border-top: 1px solid black;
+    cursor: pointer;
+    user-select: none;
+}
+
+h5:hover {
+    text-decoration: underline;
+}
